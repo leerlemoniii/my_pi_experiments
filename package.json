@@ -4,8 +4,8 @@
   "description": "pi experiments in node.js based on the sunfounder sensor kit/book",
   "main": "index.js",
   "dependencies": {
-    "npm": "^3.3.4",
-    "onoff": "^1.0.2"
+    "onoff": "^1.0.2",
+    "put": "0.0.6"
   },
   "devDependencies": {},
   "scripts": {
